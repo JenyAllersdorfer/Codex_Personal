@@ -1,5 +1,6 @@
 [
   "dataview",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
