@@ -1,20 +1,19 @@
 ---
 aliases:
+  - Nome em Português
   - Nome Original Romantizado
   - Nome Nativo Original
-type: Serie
-origin: Japan
+type: Comic
+origin: South Korea
 priority:
-status: Completed
+status: Watching
 second_chance: false
-all_time_favorite: true
-rating: 4,85
-release_year: 2004
-completed_year: "2025"
-streaming: Netflix
+all_time_favorite: false
+rating:
+release_year: 2024
+completed_year:
+streaming:
 tags:
-  - Romance
-  - Fantasy
 ---
 
 ## 📸 Media Art
