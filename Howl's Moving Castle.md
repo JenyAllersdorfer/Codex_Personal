@@ -1,19 +1,20 @@
 ---
 aliases:
-  - あっちこっち
+  - Nome Original Romantizado
+  - Nome Nativo Original
 type: Serie
 origin: Japan
 priority:
 status: Completed
 second_chance: false
-all_time_favorite: false
-rating:
-release_year: 2012
-completed_year:
-streaming:
+all_time_favorite: true
+rating: 4,85
+release_year: 2004
+completed_year: "2025"
+streaming: Netflix
 tags:
-  - Comedy
   - Romance
+  - Fantasy
 ---
 
 ## 📸 Media Art
