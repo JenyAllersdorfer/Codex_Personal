@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Abanando A Cauda
+  - Abanando a Cauda
   - 꼬리를 흔들다
 type: Comic
 origin: South Korea

@@ -1,17 +1,21 @@
 ---
 aliases:
+  - Nome em Português
+  - Nome Original Romantizado
   - Nome Nativo Original
 type: Comic
 origin: South Korea
-priority:
-status: Completed
+priority: High
+status: Plan to Watch
 second_chance: false
 all_time_favorite: false
-rating: 4,5
+rating: "5"
 release_year: 2024
 completed_year: "2026"
-streaming:
+streaming: Netflix
 tags:
+  - Romance
+  - Fantasy
 ---
 
 ## 📸 Media Art
