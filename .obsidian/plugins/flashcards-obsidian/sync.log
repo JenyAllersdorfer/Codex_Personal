@@ -4,3 +4,5 @@
 2026-09-19T22:42:04.486Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-09-22T03:15:50.751Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-09-22T19:24:13.603Z [INFO] plugin loaded {"version":"2.1.0"}
+2026-09-22T20:20:22.830Z [WARN] refreshActiveNoteStatus failed {"path":"Weak Hero.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Weak Hero Class.md'"}
+2026-09-23T04:55:12.864Z [INFO] plugin loaded {"version":"2.1.0"}
