@@ -1,7 +1,9 @@
 [
-  "dataview",
   "obsidian-kanban",
   "obsidian-git",
   "templater-obsidian",
-  "flashcards-obsidian"
+  "flashcards-obsidian",
+  "calendar",
+  "obsidian-tasks-plugin",
+  "dataview"
 ]
