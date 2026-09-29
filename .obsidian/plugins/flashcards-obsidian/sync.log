@@ -8,3 +8,5 @@
 2026-09-23T04:55:12.864Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-09-23T20:51:11.240Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-09-24T04:50:12.402Z [INFO] plugin loaded {"version":"2.1.0"}
+2026-09-24T05:34:01.710Z [WARN] refreshActiveNoteStatus failed {"path":"Sessao_Tecnica/Template_Test.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Sessao_Tecnica\\Untitled.md'"}
+2026-09-29T05:45:34.151Z [INFO] plugin loaded {"version":"2.1.0"}
