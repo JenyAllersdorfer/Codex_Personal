@@ -1,7 +1,7 @@
 ---
 date: '"{{date:YYYY-MM-DD}}"'
 day_of_week: '"{{date:dddd}}"'
-type: daily-note
+type: week-note
 status: active
 tags:
   - daily-note
@@ -14,7 +14,7 @@ post_its: false
 ufmt_study: false
 ---
 
-# 📅 Daily Note — {{date:DD/MM/YYYY}} ({{date:dddd}})
+# 📅 Week Note — {{date:DD/MM/YYYY}} ({{date:dddd}})
 
 > [!quote] Daily Focus
 > "Consistência vence a intensidade."
