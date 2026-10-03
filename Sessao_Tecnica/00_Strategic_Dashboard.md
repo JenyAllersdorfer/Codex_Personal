@@ -38,6 +38,16 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ---
 
+## 🗓️ Today's Action Items
+
+```tasks
+not done
+due before or on today
+sort by priority
+```
+
+---
+
 ## 📅 Next 7 Days (Weekly Outlook)
 
 ```tasks

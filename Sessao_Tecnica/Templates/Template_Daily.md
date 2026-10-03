@@ -1,8 +1,6 @@
 ---
-date:
-  "{ date:YYYY-MM-DD }":
-day_of_week:
-  "{ date:dddd }":
+date: '"{{date:YYYY-MM-DD}}"'
+day_of_week: '"{{date:dddd}}"'
 type: daily-note
 status: active
 tags:
