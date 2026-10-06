@@ -1,20 +1,17 @@
 ---
 type: dashboard
-tags:
-  - dashboard
-  - overview
-  - omni_os
 ---
 
 # 🏛️ Omni_OS — Strategic Dashboard
 
 ---
 
-## 📊 Annual Habit Heatmap
+## 📊 Annual Weekly Heatmap (2026)
 
-> Visualização automatizada do seu progresso em estudo de dev em 2026:
+> Monitoramento visual das semanas concluídas e hábitos consolidados do seu Second Brain:
 
 ```dataviewjs
+// Certifique-se de ter o plugin "Heatmap Tracker" ativado nas configurações
 const calendarData = {
     year: 2026,
     colors: {
@@ -23,12 +20,14 @@ const calendarData = {
     entries: []
 }
 
-for (let page of dv.pages('"00_Sessao_Tecnica/Daily_Notes"')) {
-    if (page.dev_html === true) {
+// O script agora varre a sua nova pasta de notas semanais
+for (let page of dv.pages('"00_Sessao_Tecnica/weekly_records"')) {
+    // Alimenta o gráfico se você marcou que estudou na UFMT naquela semana
+    if (page.ufmt_study === true) {
         calendarData.entries.push({
-            date: page.date,
+            date: page.date, // Puxa a data do domingo de criação
             intensity: 4,
-            content: "💻"
+            content: "🏫"
         })
     }
 }
@@ -38,12 +37,13 @@ renderHeatmapCalendar(this.container, calendarData)
 
 ---
 
-## 🗓️ Today's Action Items
+## 🗓️ Today's Action Items (Ações de Hoje)
 
 ```tasks
 not done
-due before or on today
-sort by priority
+# Mostra todas as tarefas pendentes da sua nota semanal ativa
+path includes 00_Sessao_Tecnica/weekly_records
+short mode
 ```
 
 ---
@@ -52,15 +52,17 @@ sort by priority
 
 ```tasks
 not done
-due after today
-due before in 7 days
+# Mostra o planejamento geral que está dentro do seu semanário estruturado
+path includes 00_Sessao_Tecnica/weekly_records
+heading includes Tasks da Semana
 ```
 
 ---
 
-## 🏆 Recently Completed
+## 🏆 Recently Completed (Concluído Recentemente)
 
 ```tasks
 done
+# Lista tudo o que você deu check nos últimos 7 dias para dar satisfação mental
 done after 7 days ago
 ```

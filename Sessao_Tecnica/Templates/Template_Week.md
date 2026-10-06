@@ -1,50 +1,76 @@
 ---
 date: '"{{date:YYYY-MM-DD}}"'
-day_of_week: '"{{date:dddd}}"'
-type: week-note
-status: active
-tags:
-  - daily-note
-  - routine
-  - omni_os
+type: academy_moc
 anki: false
 gym: false
-dev_html: false
 post_its: false
 ufmt_study: false
 ---
 
-# 📅 Week Note — {{date:DD/MM/YYYY}} ({{date:dddd}})
+---
 
-> [!quote] Daily Focus
-> "Consistência vence a intensidade."
+# 📅 Week Note — {{date:DD/MM/YYYY}}
 
+> [!quote] Foco Semanal
+> "O segredo do seu futuro está escondido na sua rotina diária."
 
 ---
 
-## ⏰ Daily Schedule (Tasks)
+## ⏰ Tasks da Semana
 
-### ☀️ Morning
-- [ ] 09h00 - Treino na Academia 🏋️‍♀️ 📅 {{date:YYYY-MM-DD}} 🔁 every weekday
-- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📅 {{date:YYYY-MM-DD}} 🔁 every day
+### 📅 Segunda-Feira
+- [ ] 09h00 - Treino na Academia 🏋️‍♀️
+- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📱
+- [ ] 13h30 - Aula na UFMT 🏫
+- [ ] 15h30 - Janela no Lab (30 min Perguntas + 1h Scanlator) 🎨
+- [ ] 18h50 - Gatilho Pré-Aula (Revisar MOC no celular) ⚡
+- [ ] 19h00 - Aula na UFMT 🏫
+- [ ] 00h00 - Formular frases com Post-its do armário 🗣️
 
-### 🕒 Afternoon (UFMT / IC / Rest)
-- [ ] Aulas na UFMT / Janela de estudos no laboratório 🏫 📅 {{date:YYYY-MM-DD}}
-- [ ] Curadoria de Dados IC / Produção Scanlator 🔬 📅 {{date:YYYY-MM-DD}}
+### 📅 Terça-Feira
+- [ ] 09h00 - Treino na Academia 🏋️‍♀️
+- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📱
+- [ ] 14h00 - Iniciação Científica (Lab UFMT: Curadoria do Chatbot) 🔬
+- [ ] Horário Livre - Duolingo Coreano ☕ / Trecho de Filme em Inglês 🍿
+- [ ] 18h50 - Gatilho Pré-Aula (Revisar MOC no celular) ⚡
+- [ ] 19h00 - Aula na UFMT 🏫
+- [ ] 00h00 - Formular frases com Post-its do armário 🗣️
 
-### 🌙 Evening & Tech Midnight
-- [ ] 18h50 - Gatilho de Pré-Aula (Revisão rápida de MOC no celular) ⚡ 📅 {{date:YYYY-MM-DD}}
-- [ ] 23h00 - 1h de Estudo Guanabara [[HTML_CSS]] 💻 📅 {{date:YYYY-MM-DD}} 🔁 every day
-- [ ] 00h00 - Formular frases com Post-its do armário 🗣️ 📅 {{date:YYYY-MM-DD}} 🔁 every day
+### 📅 Quarta-Feira
+- [ ] 09h00 - Treino na Academia 🏋️‍♀️
+- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📱
+- [ ] 13h30 - Aula na UFMT 🏫
+- [ ] 19h00 - 30 min de Testes de Perguntas 📝
+- [ ] 19h30 - 1h de Production da Scanlator (Photopea) 🎨
+- [ ] 00h00 - Formular frases com Post-its do armário 🗣️
+
+### 📅 Quinta-Feira
+- [ ] 09h00 - Treino na Academia 🏋️‍♀️
+- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📱
+- [ ] 13h30 - Aula na UFMT 🏫
+- [ ] 15h30 - Janela no Lab (30 min Perguntas + 1h Scanlator) 🎨
+- [ ] 18h50 - Gatilho Pré-Aula (Revisar MOC no celular) ⚡
+- [ ] 19h00 - Aula na UFMT 🏫
+- [ ] 00h00 - Formular frases com Post-its do armário 🗣️
+
+### 📅 Sexta-Feira
+- [ ] 09h00 - Treino na Academia 🏋️‍♀️
+- [ ] 11h30 - Limpeza do Obsidian & Redes (20 min) 📱
+- [ ] 14h00 - Iniciação Científica (Lab UFMT: Curadoria de Dados) 🔬
+- [ ] Horário Livre - Duolingo Coreano ☕ / Capítulo de Webtoon em Inglês 📖
+- [ ] 18h50 - Gatilho Pré-Aula (Revisar MOC no celular) ⚡
+- [ ] 19h00 - Aula na UFMT 🏫
+- [ ] 00h00 - Formular frases com Post-its do armário 🗣️
+
+### 📅 Sábado
+- [ ] Manhã - Grande Revisão Semanal da Faculdade (1h a 1h30) 🔄
+- [ ] Tarde - Projeto ASMR (Gravar e agendar Shorts de Roblox) 🎮
+- [ ] Noite - Atualizar os Post-its do armário com novas palavras 🧼
+
+### 📅 Domingo
+- [ ] **Dia Inteiro - 💤 DESCANSO TOTAL ABSOLUTO (PC Desligado)**
+- [ ] Noite - Organizar as notas da semana passada e criar o novo Semanário 📝
 
 ---
 
 ## 📝 Daily Notes & Insights
-- 
-
----
-
-## 🔄 Pending Tasks for Today
-```tasks
-not done
-due on {{date:YYYY-MM-DD}}
