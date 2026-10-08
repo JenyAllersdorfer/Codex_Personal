@@ -20,3 +20,4 @@
 2026-10-06T03:41:44.693Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-10-06T18:10:35.304Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-10-08T02:06:18.782Z [INFO] plugin loaded {"version":"2.1.0"}
+2026-10-08T02:54:04.852Z [WARN] refreshActiveNoteStatus failed {"path":"Codex_Personal/Computer_Science/BD/00_BD_MOC.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Codex_Personal\\Computer_Science\\BD\\Untitled.md'"}
