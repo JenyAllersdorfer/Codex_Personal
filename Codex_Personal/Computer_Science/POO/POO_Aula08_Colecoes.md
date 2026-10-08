@@ -1,8 +1,5 @@
----
-topic: Coleções
----
 
-# 🧠 POO - Coleções (Aula 8)
+# 🧠 Coleções (Aula 8)
 
 ## 📦 1. Tipos de Coleção
 

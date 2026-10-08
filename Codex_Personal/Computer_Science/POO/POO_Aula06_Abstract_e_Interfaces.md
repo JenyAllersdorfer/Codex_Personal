@@ -1,8 +1,5 @@
----
-topic: Classes Abstratas e Interfaces
----
 
-# 🧠 POO - Classes Abstratas e Interfaces (Aula 6)
+# 🧠 Classes Abstratas e Interfaces (Aula 6)
 
 ## 🏛️ 1. Classe Abstrata
 **Não pode ser instanciada** (não dá pra fazer `new` dela), porque possui pelo menos um **método abstrato** (declarado, mas sem corpo/implementação).

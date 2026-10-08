@@ -1,8 +1,5 @@
----
-topic: Polimorfismo
----
 
-# 🧠 POO - Polimorfismo (Aula 5)
+# 🧠 Polimorfismo (Aula 5)
 
 ## 🎭 1. O que é?
 É a capacidade de uma **mesma referência/chamada de método** se comportar de forma diferente dependendo do **objeto real** que está por trás dela — cada subclasse executa a sua própria versão sobrescrita.

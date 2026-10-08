@@ -1,8 +1,5 @@
----
-topic: Paradigma Estrutural, Classes e Objetos
----
 
-# 🧠 POO - Introdução ao Paradigma e Abstração
+# 🧠 Introdução ao Paradigma e Abstração
 
 ## ⚙️ 1. O que é um Paradigma?
 Um **paradigma** define um padrão ou modelo conceitual a ser seguido no desenvolvimento de software. 

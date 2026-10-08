@@ -1,8 +1,5 @@
----
-topic: Herança
----
 
-# 🧠 POO - Herança (Aula 4)
+# 🧠 Herança (Aula 4)
 
 ## 🌳 1. O que é?
 Uma classe (**subclasse**) herda atributos e métodos de outra (**superclasse**), representando uma relação **"é um"**.

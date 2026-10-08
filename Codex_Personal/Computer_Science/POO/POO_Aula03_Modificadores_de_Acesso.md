@@ -1,9 +1,5 @@
----
-course: Algoritmos III
-topic: Modificadores de Acesso
----
 
-# 🧠 POO - Modificadores de Acesso (Aula 3)
+# 🧠 Modificadores de Acesso (Aula 3)
 
 ## 🔐 1. O que são?
 Definem o **escopo/visibilidade** de um atributo ou método — ou seja, quem no sistema pode enxergar e usar aquele atributo/método. É o que cria a "interface" entre a classe e o mundo externo.

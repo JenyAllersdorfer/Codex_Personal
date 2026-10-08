@@ -1,8 +1,5 @@
----
-topic: Tratamento de Exceções
----
 
-# 🧠 POO - Tratamento de Exceções (Aula 7)
+# 🧠 Tratamento de Exceções (Aula 7)
 
 ## ⚠️ 1. O que é uma Exceção?
 É um **erro que acontece durante a execução** do programa e quebra o fluxo normal (ex: dividir por zero, acessar índice inválido de um vetor, converter texto inválido pra número).

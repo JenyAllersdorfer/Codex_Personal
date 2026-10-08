@@ -1,8 +1,5 @@
----
-topic: Mensagem, Método e Encapsulamento
----
 
-# 🧠 POO - Método e Encapsulamento (Aula 2)
+# 🧠 Método e Encapsulamento (Aula 2)
 
 ## 📨 1. Mensagem
 É a forma como os objetos se comunicam entre si: um objeto "manda uma mensagem" pra outro chamando um dos seus métodos (ex: `joao.setNome("João")` é uma mensagem mandada pro objeto `joao`).
