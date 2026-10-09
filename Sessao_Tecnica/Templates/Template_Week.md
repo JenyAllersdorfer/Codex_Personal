@@ -64,7 +64,7 @@ ufmt_study: false
 
 ### 📅 Sábado
 - [ ] Manhã - Grande Revisão Semanal da Faculdade (1h a 1h30) 🔄
-- [ ] Tarde - Projeto ASMR (Gravar e agendar Shorts de Roblox) 🎮
+- [ ] Tarde - Projeto ASMR (Gravar e agendar videos de Roblox) 🎮
 - [ ] Noite - Atualizar os Post-its do armário com novas palavras 🧼
 
 ### 📅 Domingo
