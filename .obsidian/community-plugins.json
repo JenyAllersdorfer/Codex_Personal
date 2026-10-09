@@ -6,5 +6,6 @@
   "calendar",
   "obsidian-tasks-plugin",
   "dataview",
-  "heatmap-tracker"
+  "heatmap-tracker",
+  "qb-reader-parser"
 ]
