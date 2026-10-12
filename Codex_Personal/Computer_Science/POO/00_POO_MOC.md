@@ -28,7 +28,7 @@ Esta disciplina resolve a rigidez do paradigma imperativo antigo (como o C tradi
 
 ## 🎯 Histórico de Avaliações
 
-- [[Provas/P1_POO]] — *Retrospectiva de erros e acertos da P1.*
+- [[P1_POO]] — *Retrospectiva de erros e acertos da P1.*
 ---
 
 ## 🔍 Links Reversos Coletados (Backlinks de TI)
