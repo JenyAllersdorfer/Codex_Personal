@@ -1,8 +1,8 @@
 ---
 responsável: eu
 lido: completo (PDF)
-resumo: pendente
-slide: pendente
+resumo: false
+slide: false
 ---
 # Guzman 2026 
 
@@ -63,8 +63,6 @@ Como ler uma variável (Tabelas 3 e 4):
 
 Onde estão os arquivos:
 - Página: https://plataform.ellas.ufmt.br/open-data/1
-- CSV: https://plataform.ellas.ufmt.br/survey/surveyELLAS_2025–11–21_.csv
-- Dicionário (PDF): https://plataform.ellas.ufmt.br/survey/Data_dictionary-2025-11-21.pdf
 
 Limitações declaradas:
 - Amostra intencional: não permite generalização estatística.
@@ -81,6 +79,5 @@ Como vou usar:
 - Dicionário como base do mapeamento de variáveis (Obj. Específico 1).
 - Etapa 2 parte do problem_case: verificar, decidir e registrar no log.
 - Lumina deve tratar os números como amostra intencional, não população.
-
 ## Resumo (entrega, até 3 páginas, em português)
 (escrever com as suas palavras)
