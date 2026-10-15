@@ -1,12 +1,10 @@
 ---
 aliases:
-  - Nome em Português
-  - Nome Original Romantizado
   - Nome Nativo Original
-type: Comic
-origin: South Korea
-priority: High
-status: Plan to Watch
+type: Serie
+origin: China
+priority:
+status: Completed
 second_chance: false
 all_time_favorite: false
 rating: "5"

@@ -1,9 +1,7 @@
 ---
 aliases:
-  - Nome em Português
-  - Nome Original Romantizado
   - Nome Nativo Original
-type: Comic
+type: Serie
 origin: South Korea
 priority: High
 status: Plan to Watch
