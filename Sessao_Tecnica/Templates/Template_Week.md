@@ -35,7 +35,6 @@ type: academy_moc
 
 ### 📅 Quarta-Feira (Noite de Produção & Gravação)
 - [ ] **13h30 - 17h30** | 🏫 Aula Presencial na UFMT
-- [ ] **18h00 - 19h30** | 🎨 Produção Técnica Letrista (Typer) na Scanlator (1h30 focada)
 - [ ] **19h30 - 21h00** | 🎮 **Estúdio Roblox:** Gravação de 2 vídeos (Cerca de 15 minutos cada um)
 - [ ] **23h00 - 00h00** | 🏛️ **SEMA - Bloco Noturno:** 1 hora focada de estudos para o concurso
 
@@ -47,7 +46,6 @@ type: academy_moc
 
 ### 📅 Sexta-Feira
 - [ ] **14h00 - 15h30** | 🔬 Iniciação Científica (Lab UFMT ❄️): Finalizar a curadoria de dados da semana
-- [ ] **15h30 - 17h00** | 🎨 Produção Técnica Letrista (Typer) na Scanlator (1h30 focada no Lab)
 - [ ] **18h00 - 19h00** | 🖥️ **Bloco Flexível:** Revisão de tópicos de TI ou Teoria da CNH
 - [ ] **19h00 - 22h30** | 🏫 Aula Presencial na UFMT
 - [ ] **23h00 - 00h00** | 🏛️ **SEMA - Bloco Noturno:** 1 hora focada de estudos para o concurso
@@ -61,7 +59,6 @@ type: academy_moc
 
 ### 📅 Domingo (Reset & Organização Livre)
 - [ ] **Horário Livre (30 min)** | 🛠️ **Manutenção Omni_OS:** Organizar o seu cofre do Obsidian e fazer faxina digital rápida no celular no momento que preferir
-- [ ] **Horário Livre (1h30)** | 🎨 Produção Técnica Letrista (Typer) na Scanlator 
 - [ ] **Resto do Dia** | 💤 **DESCANSO TOTAL ABSOLUTO** (Mente desconectada para repor as energias)
 
 ---
