@@ -1,7 +1,7 @@
 ---
 lido: completo (1 página + referências)
 resumo: true
-slide: false
+slide: true
 ---
 ---
 # Guzman et al. 2026 – Motivation to Lead em TI

@@ -1,7 +1,7 @@
 ---
 lido: completo
 resumo: true
-slide: false
+slide: true
 ---
 ---
 # Maciel et al. 2025 – Cap. 6, Fostering Open Data (livro)

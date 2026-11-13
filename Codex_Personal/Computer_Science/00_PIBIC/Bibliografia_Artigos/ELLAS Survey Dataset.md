@@ -1,7 +1,7 @@
 ---
 lido: completo (PDF)
 resumo: true
-slide: false
+slide: true
 ---
 ---
 # Guzman et al. 2026 – ELLAS Survey Dataset
