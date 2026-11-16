@@ -1,8 +1,6 @@
 ---
 aliases:
   - Nome em Português
-  - Nome Original Romantizado
-  - Nome Nativo Original
 type: Comic
 origin: South Korea
 priority: High
