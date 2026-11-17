@@ -19,5 +19,5 @@
 - [ ] RAG
 
 ## Atalhos
-[[00_Indice]] · [[Log_de_Curadoria]] · [[Dicionario_de_Dados]]
+[[00_Indice]] · [[Log_De_Curadoria]] · [[Dicionario_de_Dados]]
 Último relatório semanal: [[AAAA-MM-DD Semana]]
