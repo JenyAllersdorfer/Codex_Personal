@@ -52,3 +52,6 @@
 2026-11-19T03:47:12.389Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-11-22T05:07:03.523Z [INFO] plugin loaded {"version":"2.1.0"}
 2026-11-23T23:39:35.561Z [INFO] plugin loaded {"version":"2.1.0"}
+2026-11-23T23:55:39.852Z [WARN] refreshActiveNoteStatus failed {"path":"Codex_Personal/Computer_Science/ALG/Algoritmos_1/A1_Fundamentos_Da_Computação.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Codex_Personal\\Computer_Science\\ALG\\Algoritmos_1\\A1_Geral.md'"}
+2026-11-23T23:57:17.550Z [WARN] refreshActiveNoteStatus failed {"path":"Codex_Personal/Computer_Science/ALG/Algoritmos_1/01_A1_Fundamentos_Da_Computação.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Codex_Personal\\Computer_Science\\ALG\\Algoritmos_1\\A1_Fundamentos_Da_Computação.md'"}
+2026-11-24T00:01:29.482Z [WARN] refreshActiveNoteStatus failed {"path":"Codex_Personal/Computer_Science/ALG/Algoritmos_1/02_A1_Geral_Sistemas_de_Numeracao.md","error":"ENOENT: no such file or directory, open 'C:\\Users\\Pichau\\Documents\\Obsidian\\Omni_OS\\Codex_Personal\\Computer_Science\\ALG\\Algoritmos_1\\02_A1_Geral_02_Sistemas_de_Numeracao.md'"}
